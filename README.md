@@ -3,7 +3,7 @@
 This is an application written in Flask. 
 
 Installation:
-git clone https://github.com/xod442/scriptsonly.git
+git clone https://github.com/xod442/dcnmgr2.git
 
 Change directory to the dcn_scripts
 look at the requirements.txt file and verify you have the necessary 
