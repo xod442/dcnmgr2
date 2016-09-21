@@ -21,10 +21,11 @@ http://hostname:5000 - app runs on port 5000.
 
 IMPORTANT NOTE!!!
 -------------------------------------------------------------------------------
-Currently for application to function properly you will need a deafult enterprise, 
-any name, with a default l3 domain called "Default Domain"
+Currently for application to function properly you will need to log into the DCN Architect
+and create a deafult enterprise, any name, with a default l3 domain called "Default Domain"
 In the L3 "Default Domain" create a three tier APP, DB, Web Zone's and save.
 The application will be ready to use.
+
 --------------------------------------------------------------------------------'
 
 Enter the login credentials, ip address and group id for your
